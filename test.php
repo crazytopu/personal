@@ -6,6 +6,6 @@
  * Author : oli
  */
 
-echo 'hi there';
+echo 'hi there test.me';
 
 ?>
